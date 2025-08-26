@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: emojify.exe
         PortableCommandAlias: emojify
     InstallerUrl: https://github.com/damienbutt/emojify-go/releases/download/v1.0.0/emojify-go_1.0.0_windows_arm64.zip
-    InstallerSha256: 38e352b81553ee1337aeebfd268700a46599496643f366ea2e8e2a5132c24775
+    InstallerSha256: ab92bc21c730c141253951ab0fb43a015fbe0d950c50aa9cf45331a7d1a3626e
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: emojify.exe
         PortableCommandAlias: emojify
     InstallerUrl: https://github.com/damienbutt/emojify-go/releases/download/v1.0.0/emojify-go_1.0.0_windows_amd64.zip
-    InstallerSha256: 386e5679fef080869e571c92c9675b49ade9e5237bec6b1c453d57ee28be6798
+    InstallerSha256: a98ae8fd0fc96438b0e7ecaa009a634b4fc00e1a34f6ad4c27d6ab4ff7cd897a
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.10.0
